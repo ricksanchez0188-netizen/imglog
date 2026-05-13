@@ -3,15 +3,5 @@
     "api/main.py": {
       "runtime": "python3.11"
     }
-  },
-  "rewrites": [
-    {
-      "source": "/image.png",
-      "destination": "/api/main.py"
-    },
-    {
-      "source": "/(.*)",
-      "destination": "/api/main.py"
-    }
-  ]
+  }
 }
